@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+
+.container {
+    background-color: cyan;
+    border: 5px solid black;
+}
+
+.my_navbar {
+    position: sticky;
+    top: 0;
+    z-index: 99999
+}
+
+marquee {
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#title {
+    color: darkviolet;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#principal {
+    border-radius: 0px;
+}
+
+h3 {
+    color: yellow;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+}
+
+h4 {
+    color: yellow;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+}
